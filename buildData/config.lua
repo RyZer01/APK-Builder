@@ -1,4 +1,4 @@
-gameName = "7oyan"
+gameName = "ShootBox"
 packageName = "com.cooldevelopers.butterfly.yay" --See https://www.aftvnews.com/how-to-determine-the-package-name-of-an-android-app/
 versionCode = "1"
 versionSemantic = "1.0"
